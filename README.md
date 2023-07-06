@@ -1,7 +1,8 @@
 # Knovator_CRUD
-Follow below command to run:
-~ npm install
-~ npm start
+- Install MongoDB and NodeJs and setup in your system
+Then, Follow below command to run:
+- npm install
+- npm start
 
 #  For Registering user send POST request on Postman to "http://localhost:3000/api/auth/register" 
 - JSON FORMAT
