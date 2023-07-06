@@ -1,6 +1,5 @@
 # Knovator_CRUD
-- Install MongoDB and NodeJs and setup in your system
-Then, Follow below command to run:
+- Install MongoDB and NodeJs and setup in your system. Then, Follow below command to run:
 - npm install
 - npm start
 
